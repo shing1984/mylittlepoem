@@ -9,5 +9,7 @@ Unicorn
 Green
 Yellow
 Pony
+Indigo
+
 
 These are the colors of the rainbow , the Unicorn  and the Pony!
